@@ -40,7 +40,7 @@ uv run pose-estimation.py
 The pose landmarker model tracks 33 body landmark locations, representing the approximate location of the following body
 parts:
 
-![MediaPipe Post Landmarks](docs/img.png)
+![MediaPipe Post Landmarks](docs/pose-landmarks.png)
 
 ### Face Landmarks
 
